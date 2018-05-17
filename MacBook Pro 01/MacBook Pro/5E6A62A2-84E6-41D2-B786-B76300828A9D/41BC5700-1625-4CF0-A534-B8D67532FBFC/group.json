@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "41BC5700-1625-4CF0-A534-B8D67532FBFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "EB5BB01A-15A1-4722-BB71-C1356F70518F",
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1029,
+    "width": 1744,
+    "x": 328,
+    "y": 286
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "46C52B8B-C381-4387-A5F2-CB9037035D8F"
+    },
+    {
+      "class": "group",
+      "id": "9E5AFA74-21EC-432B-B683-B337C727B839"
+    },
+    {
+      "class": "group",
+      "id": "59307907-F294-4D4A-8FD5-0C5BC702AA37"
+    }
+  ],
+  "name": "Silver",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
